@@ -1,5 +1,5 @@
-# sqlAlchemy Challenge with Climate Data
-Challenge 10 for UC Berkeley Data Analytics Bootcamp. In this challenge, we use sqlAlchemy to analyze the climate data in Hawaii to plan our long holiday vacation!
+# Challenge 10: sqlAlchemy Challenge with Climate Data
+In this challenge for the UC Berkeley Data Analytics Bootcamp, we use sqlAlchemy to analyze the climate data in Hawaii to plan our long holiday vacation!
 
 ### Part 1: Analyze and Explore the Climate Data
 Python and SQLAlchemy are used to do a basic climate analysis and data exploration of the Hawaii climate database (found in the "Resources" folder). Specifically, SQLAlchemy ORM queries, Pandas, and Matplotlib are used to complete the analysis. Our analysis includes:  

@@ -17,3 +17,8 @@ After completion of the initial analysis, a Flask API was designed based on the 
 - /api/v1.0/2016-08-23/2017-08-23
   
 The climate app is saved in a python file named "app.py".
+
+### Summary of Analysis
+Based on our analysis in Part 1, between August 23, 2016 and August 23, 2017, precipitation (measured in inches) appeared to have peaked in August 2016. The maximum precipitation in this period is 6.7 inches. 
+
+Based on our analysis in part 2, between August 23, 2016 and August 23, 2017, the most frequent temperature observed by the most active station is between 75F and 80F. According to the histogram, there were over 60 observations of the most frequent temperature.
